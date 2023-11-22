@@ -12,6 +12,8 @@
 - 차량 번호판 데이터셋 직접 수집 및 학습 진행
 
 # 기술 스택
+- Java
+- Python
 - openCV
 - Pillow 
 - YOLO v3
